@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fkungfu.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fkungfu?ref=badge_shield)
+
 Intro 简介
 ========
 
@@ -291,3 +293,7 @@ Contribute 开发
 =============
 
 开发文档即将上线，请关注 [Taurus.ai](http://taurus.ai) 官网。
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fkungfu.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fkungfu?ref=badge_large)
